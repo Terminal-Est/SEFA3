@@ -1,0 +1,51 @@
+{
+  "Test Residence": {
+    "Wing1": {
+      "A132456": {
+        "PT Name": "Martin Freeman",
+        "DOB": "19/02/1951",
+        "Diagnosis": "Stage 2 diabetes, recurring gout inflammation, Chronic arthritis",
+        "Infectious Hazards": "No",
+        "Weight": false,
+        "Spec Requirements": "No",
+        "Patient Type": "Walker",
+        "Destination": {
+          "Address": "456 Side Street Woodend VIC",
+          "Custodian": "Phoebe Freeman",
+          "Custodian Role": "Family Member",
+          "Phone": "0454123123"
+        }
+      },
+      "B112356": {
+        "PT Name": "George Freeman",
+        "DOB": "22/01/1947",
+        "Diagnosis": "Early onset dementia, Cerebrovascular disease and Osteoporosis",
+        "Infectious Hazards": "Yes, pneumonia",
+        "Weight": false,
+        "Spec Requirements": "Intravenous Drip",
+        "Patient Type": "Wheelchair-confined",
+        "Destination": {
+          "Address": "Kyneton Lakeview Home 123 Main Road Kyneton VIC",
+          "Custodian": "Jennifer Kyte",
+          "Custodian Role": "Admin Manager",
+          "Phone": "0400123123"
+        }
+      },
+      "C135798": {
+        "PT Name": "Frank Citizen",
+        "DOB": "01/02/1958",
+        "Diagnosis": "Diabetes, Arthritis",
+        "Infectious Hazards": "No",
+        "Weight": false,
+        "Spec Requirements": "No",
+        "Patient Type": "Walker",
+        "Destination": {
+          "Address": "123 Bridge Road Burwood",
+          "Custodian": "John Citizen",
+          "Custodian Role": "Family Member",
+          "Phone": "0434879551"
+        }
+      }
+    }
+  }
+}
